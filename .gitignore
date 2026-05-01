@@ -1,0 +1,23 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.Rcheck/
+*.tar.gz
+src/*.o
+src/*.so
+src/*.dll
+
+# Build artefacts
+spmixW.Rcheck/
+*.Rcheck/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

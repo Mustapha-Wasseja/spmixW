@@ -1,0 +1,8 @@
+devtools::load_all("C:/Users/musta/Dropbox/Econometrics Papers/EAC Paper/spatial_econo_paper/functions/R_package/spmixW")
+setwd("C:/Users/musta/Dropbox/Econometrics Papers/EAC Paper/spatial_econo_paper/functions/R_package/spmixW/inst/validation")
+source("validation_01_ols.R")
+source("validation_02_sar.R")
+source("validation_03_sdm.R")
+source("validation_04_sem.R")
+source("validation_05_sdem.R")
+source("validation_06_slx.R")
