@@ -1,3 +1,7 @@
 ^cran-comments\.md$
 ^\.Rbuildignore$
 ^inst/validation$
+^README\.md$
+^\.git$
+^\.gitignore$
+^\.github$
